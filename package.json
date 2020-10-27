@@ -13,6 +13,10 @@
   "author": "Sami Ullah",
   "license": "ISC",
   "devDependencies": {
+    "@applitools/eyes-cypress": "^3.15.3",
     "cypress": "^5.4.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
   }
 }
